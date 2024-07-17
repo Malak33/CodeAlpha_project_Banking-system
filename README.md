@@ -152,7 +152,7 @@ int main() {
             break;
         case '8':
             system("CLS");
-            cout << "\n\n\t\t\tBrought To You By Ahmad And Abdul Rehman";
+            cout << "\n\n\t\t\tBrought To You By malak ";
             break;
         default:
             cout << "\a";
